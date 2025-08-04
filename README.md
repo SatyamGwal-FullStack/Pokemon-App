@@ -29,5 +29,6 @@ This is a simple JavaScript-based web app that fetch and displays Pokémon sprit
 ## Project purpose
 - This is an independently built project created for practice purposes.
 
-**Practice Project by:** Satyam Gwal 
+**Practice Project by:** (Satyam Gwal)
+
 **Feel free to clone and make it your own.If you like the project don't forget to ⭐ the repo!**
