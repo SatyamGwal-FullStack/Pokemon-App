@@ -23,7 +23,7 @@ This is a simple JavaScript-based web app that fetch and displays Pokémon sprit
 3. The app will display the sprite image if the name is valid.
 
 ##  Live Demo
-[Click here to play](your_github_pages_live_link_here)
+[Click here to play](https://satyamgwal-fullstack.github.io/Pokemon-App/)
 
 
 ## Project purpose
